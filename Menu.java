@@ -1,3 +1,5 @@
+//JUAN FERNANDO RAMIREZ MONSALVE
+
 package Parcial1;
 
 import java.util.Scanner;
